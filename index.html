@@ -1,17 +1,13 @@
 ---
-layout: schedule
-title: Schema
+layout: blog
 ---
 
-<div class="hero-unit">
-	<h2>Har du inte fått något novischhäfte?</h2>
-	<a href='/f/novisch.pdf'>Ladda ner ett här!</a>
-</div>
-
-<div class="hero-unit">
-	<h2>Har du inte anmält dig till novischaktiviteterna?</h2>
-	Gör gärna det 
-	<a href='https://docs.google.com/a/ofmlabs.org/spreadsheet/viewform?formkey=dDZWdkh0d1c2Ym5YVFViVENYU3gxdkE6MQ#gid=0'>här</a>, speciellt om du önskar specialkost.
-</div>
-
-{% include schedule.html %}
+<div class="posts">
+	{% for post in site.posts %}
+		<div class="post">
+			<h2><a href="{{ post.url }}">{{ post.title }}</a> - <span>{{ post.date | date_to_string }}</span></h2>
+			
+			{{ post.content }}
+		</div>
+	{% endfor %}
+</ul>
