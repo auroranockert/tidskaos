@@ -11,6 +11,11 @@
 
 				{{ content }}
 			</div>
+            {% if page.location %}
+            <div class="box">
+                <p id="map" style="width: 500px; height: 300px" address="{{ page.location.address }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">&nbsp;</p>
+            </div>
+            {% endif %}
 
 			<hr>
 
