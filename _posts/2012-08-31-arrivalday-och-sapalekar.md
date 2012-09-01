@@ -56,6 +56,7 @@ Sedan följde GLUFS (bilden var nog ganska uppenbar dock) min inte helt uppenbar
 Efter den långa vandringen med Inertia från blekingska tog de en paus och skrev både Luna och GLUFS, var inte ett uppdrag innan, men det kommer upp på uppdragslistan nu för alla andra. Skriv ert egna studieråds namn med novischer!
 
 !['GLUFS skriver Luna']('http://tidskaos.se/img/uppdrag/glufs-skriver-luna.jpg')
+
 !['GLUFS skriver GLUFS']('http://tidskaos.se/img/uppdrag/glufs-skriver-glufs.jpg')
 
 Under tiden har BÖÖL inte bara hittat en häst, utan även en löjtnant med sabel. Det tycker jag är värt några poäng, och det ska BÖÖL definitivt få poäng för, jag hade definitivt inte hittat en så fort.
