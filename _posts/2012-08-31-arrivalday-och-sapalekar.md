@@ -73,12 +73,24 @@ SNG har även hittat ishallen (tror jag?) och gjort en snögubbe av mig, ganska 
 
 !['SNGs Jensgubbe'](http://tidskaos.se/img/uppdrag/sng-jensgubbe.jpg)
 
+Här kommer filmerna, först KOMs version av den lilla sjöjungfrun, några minuspoäng för att filmen filmades upp-och-ner, men man förstår historien om man sett filmen.
+
+{% assign id = 'ariel' %}
+{% assign m4v = 'http://tidskaos.se/img/uppdrag/ariel.m4v' %}
+{% include video.html %}
+
+Och SNGs 'Gangnam Save'
+
+{% assign id = 'gangnam-save' %}
+{% assign m4v = 'http://tidskaos.se/img/uppdrag/gangnam-save.m4v' %}
+{% include video.html %}
+
 Totalt insamlade poäng för dagens tävlingar, och alla uppdrag,
 
- 1. SNG (105 poäng)
+ 1. SNG (110 poäng)
  2. BÖÖL (95 poäng)
  3. MUR (90 poäng)
- 4. KOM (55 poäng)
+ 4. KOM (70 poäng)
  5. GLUFS (65 poäng)
 
 Ps. Jag vet att alla video-uppdrag inte är upp än, det är för att jag hoppades på Youtube, men nu ändrar jag reglerna att man kan skicka video till mig istället, så fixar jag jPlayer eller något på sidan. KOM har väl en del poäng att få, likaså SNG.
