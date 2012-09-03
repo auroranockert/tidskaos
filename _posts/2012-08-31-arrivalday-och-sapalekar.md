@@ -9,25 +9,25 @@ Såpalekarna är numer också avklarade, även en mängd uppdrag, och en del sak
 
 Resultatet för såpalekarna var att SNG vann tävlingarna igen, BÖÖL kom på andra plats, sedan MUR, KOM och sist GLUFS. MUR fick fem poängs avdrag för att ha trashat BÖÖLs bärpinnar, vilket var lite taskigt, speciellt efter att BÖÖL räddat deras flagga på introdagen. BÖÖL fick även första supporter-pris, KOM fick andra.
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-012.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-012.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-035.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-035.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-039.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-039.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-046.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-046.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-057.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-057.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-062.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-062.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-064.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-064.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-096.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-096.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-108.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-108.png)
 
-!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-109.jpg)
+!['Arrival Day'](http://tidskaos.se/img/aktiviteter/arrivalday-109.png)
 
 Någon utanför Naturvetarkåren hittade nog tyvärr Klockis, vilket gör att ingen får poäng för den idag och vi i Fadderutskottet ska försöka hitta en ersättare till, eller under Stadsomloppet, vi lovar, typ.
 
