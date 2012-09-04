@@ -5,6 +5,8 @@ category : Aktivitet
 tags : [Aktivitet, Uppdrag]
 ---
 
+SNG vann dagens tävlingar och tar över ledningen från BÖÖL trots deras extra poäng för bästa hejande.
+
 Innan dagens tematävlingar så har en hel del dumma saker som utförts, det började klockan 7 när GLUFS skickar bild på hur de i GLUFS knyter skor,
 
 !['GLUFS knyter skor'](http://tidskaos.se/img/uppdrag/glufs-knyter-skor.jpg)
