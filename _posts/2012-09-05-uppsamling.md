@@ -26,7 +26,7 @@ GLUFS har äntligen kommit in med sin Moppepulkavideo, verkar ha varit skitjobbi
 
 SNG skickade in en video där de stör trafiken i Lund, det tycker jag inte alls var en bra idé, så den videon kommer jag inte lägga upp. Även att sitta utan underkläder på Botulfsplatsen tycker jag inte är en så bra idé.
 
-Men att skrämma Håkan Glans är roligt, mest för att han förtjänar det.
+Men att skrämma Johan Glans är roligt, mest för att han förtjänar det.
 
 !['Håkan Glans'](http://tidskaos.se/img/uppdrag/sng-glans.jpg)
 
