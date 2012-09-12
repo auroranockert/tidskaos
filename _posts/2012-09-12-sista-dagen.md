@@ -17,6 +17,8 @@ GLUFS har turfat som en GLUFSare,
 
 !['Ideon'](http://tidskaos.se/img/hdf-done/ideon-glufs.jpg)
 
+!['Socialister'](http://tidskaos.se/img/hdf-done/socialister-glufs.jpg)
+
 Tvek på om deras 'rättning' ger några poäng dock, uppdraget må vara otydligt, men om man kommer på vilket konstverk det handlar om så blir det kanska uppenbart vad som ska göras eller ogöras.
 
 !['Konstverket vid SOL'](http://tidskaos.se/img/uppdrag/konstverk-sol.jpg)
@@ -30,8 +32,9 @@ De dekorerade även intigheten, fint gjort,
 
 !['Dekorera intigheten'](http://tidskaos.se/img/uppdrag/glufs-intigheten.jpg)
 
+Och lånade en konstig bok på UB, 'Undercover Surrealism' av Georges Bataille, eller jag tar deras ord på att den är konstig i alla fall.
 
- 1. GLUFS 65 poäng
+ 1. GLUFS 80 poäng
  2. MUR 0 poäng
  3. SNG 0 poäng
  4. BÖÖL 0 poäng
