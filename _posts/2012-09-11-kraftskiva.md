@@ -5,14 +5,6 @@ category : Aktivitet
 tags : [Aktivitet, Uppdrag]
 ---
 
-<!-- Random BR -->
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 MUR har dansat novischdans, eller i alla fall nolledansen, vilket jag tycker är en rimlig approximation av en novischdans.
 
 {% assign id = 'nolledans' %}
@@ -27,9 +19,11 @@ Sen verkar KOMs maskot ha hamnat på mysko plats, lite oklart. Fick inget vettig
 
 !['KOMs maskot på vift'](http://tidskaos.se/img/uppdrag/koms-maskot-pa-vift.jpg)
 
- 1. MUR 10 poäng
+Jag har helt glömt bort allt bärande på AF-borgen, vid hälsningsgillet. Det har uppdaterats nu.
+
+ 1. MUR 15 poäng
  2. GLUFS 5 poäng
  3. SNG 0 poäng
- 4. BÖÖL 0 poäng
- 5. KOM 0 poäng
+ 4. BÖÖL 10 poäng
+ 5. KOM 10 poäng
  
